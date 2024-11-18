@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.list {
+    font-size: 22px;
+
+}
+
+.title {
+    background-color:beige;
+
+}
+.title.Lasagna {
+    color:firebrick;
+}
+.subtitle {
+    text-decoration: underline;
+
+}
